@@ -1,3 +1,12 @@
+.. important::
+
+   **This repository is archived and read-only.**
+
+   Unmodified fork of `hpxmlwg/hpxml <https://github.com/hpxmlwg/hpxml>`_, which is the maintained source.
+
+   - **Need it writable again?** Ask in `#helpdesk <https://pearlscore.slack.com/archives/C035HL174M6>`_.
+   - **Questions about the code?** @nmerket worked on it most recently.
+
 HPXML
 =====
 
